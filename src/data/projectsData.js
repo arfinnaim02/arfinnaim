@@ -1,0 +1,136 @@
+const projectsData = [
+  {
+    id: 1,
+    title: 'Telegram OCR Automation Bot',
+    description:
+  'An OCR-based automation system built for an e-commerce business to manage returned products and streamline inventory workflows.',
+    image: '/assets/images/project1.png',
+    tags: ['Python', 'OCR', 'Google Sheets API', 'Automation'],
+    liveLink: '#',
+    githubLink: '#',
+    caseStudyLink: 'https://youtube.com/shorts/t68oCAxgcyY?si=kKLv5oPuvLCETtpD',
+    badge: 'Automation Tool',
+  },
+  {
+    id: 2,
+    title: 'Ravintola Sinet',
+    description:
+      'A live Django-based restaurant website built for real business use with premium UI and production deployment.',
+    image: '/assets/images/project2.png',
+    tags: ['Django', 'Python', 'PostgreSQL', 'Tailwind CSS'],
+    liveLink: 'https://ravintolasinet.fi',
+    githubLink: 'https://github.com/arfinnaim02/ravintona-sinet',
+    caseStudyLink: '#',
+    badge: 'Live Django Project',
+  },
+  {
+    id: 3,
+    title: 'Bangladesh District Intelligence Dashboard',
+    description:
+  'A district-level intelligence dashboard developed for an NGO to support data-driven planning, analysis, and decision-making.',
+    image: '/assets/images/project3.png',
+    tags: ['Python', 'Pandas', 'Dashboarding', 'Data Visualization'],
+    liveLink: '#',
+    githubLink: '#',
+    caseStudyLink: 'https://youtu.be/ihD8dlnaAV4?si=f0uOeuayNfocZYrr',
+    badge: 'Dashboard Project',
+  },
+  {
+    id: 4,
+    title: 'Competitor Watchdog / Ad Intelligence Tool',
+    description:
+      'A competitor analysis tool for ad tracking, structured comparison, and business insight workflows.',
+    image: '/assets/images/project4.png',
+    tags: ['JavaScript', 'Ad Analysis', 'Marketing Insight', 'BI Tool'],
+    liveLink: '#',
+    githubLink: 'https://github.com/arfinnaim02/adanalyzer',
+    caseStudyLink: '#',
+    badge: 'Insight Tool',
+  },
+  {
+    id: 5,
+    title: 'Zenithview',
+    description:
+      'A premium company website focused on modern branding, service presentation, and a polished digital identity.',
+    image: '/assets/images/project5.png',
+    tags: ['TypeScript', 'Next.js', 'Brand Website', 'Modern UI'],
+    liveLink: '#',
+    githubLink: 'https://github.com/arfinnaim02/Zenithview',
+    caseStudyLink: '#',
+    badge: 'Brand Project',
+  },
+  {
+    id: 6,
+    title: 'Pickaboo Scraper',
+    description:
+      'A scraping-based data project built to collect and structure product data for analysis and workflow use.',
+    image: '/assets/images/project6.png',
+    tags: ['Python', 'Web Scraping', 'Data Collection', 'Automation'],
+    liveLink: '#',
+    githubLink: 'https://github.com/arfinnaim02/pickaboo-scraper',
+    caseStudyLink: '#',
+    badge: 'Scraping Project',
+  },
+  {
+    id: 7,
+    title: 'Data Analysis Portal',
+    description:
+      'A practical data analysis portal for exploration, cleaning, visualization, and insight generation.',
+    image: '/assets/images/project7.png',
+    tags: ['Python', 'Streamlit', 'Pandas', 'Plotly'],
+    liveLink: '#',
+    githubLink: 'https://github.com/arfinnaim02/auto_data_ju',
+    caseStudyLink: '#',
+    badge: 'Analytics Project',
+  },
+  {
+    id: 8,
+    title: 'Meal Management System',
+    description:
+      'A structured meal management project built to handle records, workflow organization, and user-focused utility.',
+    image: '/assets/images/project8.png',
+    tags: ['Web App', 'Management System', 'Workflow', 'Utility'],
+    liveLink: '#',
+    githubLink: 'https://github.com/arfinnaim02/meal-management',
+    caseStudyLink: '#',
+    badge: 'Management System',
+  },
+  {
+    id: 9,
+    title: 'Survey Analytics Platform',
+    description:
+      'A premium survey and analytics platform for research workflows, dashboards, and clean reporting.',
+    image: '/assets/images/project9.png',
+    tags: ['Next.js', 'Tailwind CSS', 'Analytics', 'Research Platform'],
+    liveLink: 'https://survey-analytics-platform.onrender.com/',
+    githubLink: 'https://github.com/arfinnaim02/survey-analytics-platform',
+    caseStudyLink: '#',
+    badge: 'Live Platform',
+  },
+  {
+    id: 10,
+    title: 'Trending Topics Generator',
+    description:
+      'A content workflow tool for discovering trending topics and generating structured digital content output.',
+    image: '/assets/images/project10.png',
+    tags: ['Generator Tool', 'Content Workflow', 'Web App', 'Automation'],
+    liveLink: '#',
+    githubLink: 'https://github.com/arfinnaim02/trending-topics-generator',
+    caseStudyLink: '#',
+    badge: 'Generator Tool',
+  },
+  {
+    id: 11,
+    title: 'GameOnGarb Winter Collection Landing Page',
+    description:
+      'A focused e-commerce landing page built for winter campaign presentation, product visibility, and conversions.',
+    image: '/assets/images/project11.png',
+    tags: ['Landing Page', 'E-commerce', 'Campaign UI', 'Live Site'],
+    liveLink: 'https://www.gameongarb.com/winter-collection/',
+    githubLink: '#',
+    caseStudyLink: '#',
+    badge: 'Live Landing Page',
+  },
+];
+
+export default projectsData;

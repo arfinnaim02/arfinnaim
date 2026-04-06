@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+  background: #06080d;
+  color: #f8fafc;
+  font-family: 'Inter', sans-serif;
+}
+
+main,
+nav,
+section,
+footer {
+  position: relative;
+  z-index: 10;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+::selection {
+  background: rgba(200, 167, 91, 0.25);
+  color: white;
+}
