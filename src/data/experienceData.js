@@ -13,7 +13,7 @@ const experienceData = [
   {
     role: 'Data & Sales Team Lead',
     company: 'Sunnah Dress',
-    period: '2022 – 2024',
+    period: '2023 – 2024',
     responsibilities: [
       'Directed sales analytics and business operations for an online apparel business.',
       'Managed a team responsible for day‑to‑day sales and order processing.',
