@@ -44,7 +44,7 @@ const personalData = {
     github: 'https://github.com/arfinnaim02',
     facebook: 'https://www.facebook.com/arfin.naim.754',
 
-    portfolio: 'https://arfin-portfolio.streamlit.app',
+    portfolio: 'https://www.arfinnaim.tech/',
 
     // 🔥 IMPORTANT: update after adding file in public/assets
     cv: '/assets/cv/Nazmul_Arafin_Naim_CV.pdf',
