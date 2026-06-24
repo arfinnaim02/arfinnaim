@@ -2,7 +2,7 @@ const experienceData = [
   {
     role: 'Sales Data Analyst',
     company: 'Vibes',
-    period: '2024 – 2025',
+    period: '(Feb 2025 – Oct 2025)',
     responsibilities: [
       'Monitored and analysed sales data to uncover trends and anomalies.',
       'Created reports and dashboards for cross‑functional teams.',
@@ -13,7 +13,7 @@ const experienceData = [
   {
     role: 'Data & Sales Team Lead',
     company: 'Sunnah Dress',
-    period: '2023 – 2024',
+    period: '(June 2024 – Nov 2024)',
     responsibilities: [
       'Directed sales analytics and business operations for an online apparel business.',
       'Managed a team responsible for day‑to‑day sales and order processing.',
