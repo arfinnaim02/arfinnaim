@@ -1,6 +1,6 @@
 const experienceData = [
   {
-    role: 'Business Intelligence Analyst',
+    role: 'Sales Data Analyst',
     company: 'Vibes',
     period: '2024 – 2025',
     responsibilities: [
